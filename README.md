@@ -11,4 +11,4 @@ Configure as variáveis de ambiente:
 1. "JAVA_HOME" para apontar para o JDK 5
 2. "Path" para apontar para a pasta bin do JDK 5
 
-**Obs.:** reverter a coonfiguração de variáveis de ambiente após uso dos programas
+**Obs.:** reverter a configuração de variáveis de ambiente após uso dos programas
